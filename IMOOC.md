@@ -10,6 +10,9 @@
 
 ## 综合
 - https://mp.weixin.qq.com/s/R-PDIKnWXS5KA0PIaaXvrA
+- 三大框架 链接: https://pan.baidu.com/s/1GIn5NCd5RB5-n_14Q_5lPg 密码: kuse
+  ![](images/0001.png)
+  ![](images/0002.png)
 
 ## 小程序
 
@@ -29,3 +32,15 @@ React.js模仿大众点评webapp
 
 ## vue
 - Vue2.0入门+实战  http://pan.baidu.com/share/link?shareid=3601009151&uk=312039504 
+
+
+## ionic
+- 快速上手Ionic3 多平台开发企业级问答社区   https://pan.baidu.com/s/1mhYJOFI     cx1a
+
+## 后端
+- EasySwoole+ElasticSearch打造高性能小   链接:https://pan.baidu.com/s/1chJTMHlAMsnIax9Ek4k2MQ 提取码:5e2m
+- 2小时学会Springboot 链接：https://pan.baidu.com/s/1eGKUDA6EYC9HRFz4RIgUjA   提取码：2me8 
+- Java全套视频集锦  https://pan.baidu.com/s/1325jTM4zN4DFsHpbuqfmZQ  9qu1
+- java架构师从入门到精通  https://pan.baidu.com/s/1z7WNiMPaEsSQKXaqZ5cJSA 提取码：zbba
+
+
