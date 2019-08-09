@@ -12,11 +12,13 @@
 * [react-native](#react-native)
 * [typescript](#typescript)
 * [Taro](#Taro)
-* [常用工具](#常用工具)
+* [nodejs](#nodejs)
+* [常用库](#常用库)
 * [css](#css)
 * [面试](#面试)
 * [js](#js)
 * [高质文章](#高质文章)
+* [趋势](#趋势)
 
 
 ## vue
@@ -110,8 +112,19 @@
 - https://juejin.im/post/5d2a0774518825290726fa7a
 
 
+## nodejs
+### 官网
+- 英文官网  https://nodejs.org/en/
+- 中文官网  http://nodejs.cn/
 
-## 常用工具
+### 参考资料
+- 七天学会NodeJS文档  http://nqdeng.github.io/7-days-nodejs/
+- node面试题  https://github.com/ElemeFE/node-interview
+- Node应用内存泄漏分析方法论与实战 https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-memory-leak.md
+
+
+
+## 常用库
 
 ### 数据
 - Immutablejs   https://github.com/immutable-js/immutable-js
@@ -124,7 +137,15 @@
 
 
 ## css
-- less http://lesscss.cn/
+
+### less
+
+- less中文文档  	https://less.bootcss.com/#     http://lesscss.cn/
+- less官网   http://lesscss.org/
+- 教程		https://segmentfault.com/a/1190000012360995?utm_source=tag-newest
+
+### 文章
+- 移动端1px解决方案 https://juejin.im/post/5d19b729f265da1bb2774865?utm_source=gold_browser_extension
 
 ## nodejs
 
@@ -137,6 +158,7 @@
 
 ### demo
 - javascript-mqtt-demo-wearingTip   https://github.com/coolnameismy/javascript-mqtt-demo-wearingTip
+- 面试官(7): 聊一聊 Babel? https://juejin.im/post/5c03b85ae51d450c740de19c
 
 ## 面试
 
@@ -152,5 +174,9 @@
 - 阿里大佬浅谈大型项目前端架构设计 https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg
 - 年终回顾，为你汇总一份「前端技术清单」 https://juejin.im/post/5bdfb387e51d452c8e0aa902
 - 8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...) https://juejin.im/post/5d0878aaf265da1b83338f74?utm_source=gold_browser_extension#heading-1
-- 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
 - fullstack tutorial   https://github.com/frank-lam/fullstack-tutorial?utm_source=gold_browser_extension
+
+
+## 趋势
+- 了解什么是微前端  https://juejin.im/post/5d1f19e3f265da1bab29ce5f?utm_source=gold_browser_extension
+- 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends

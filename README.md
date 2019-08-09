@@ -12,4 +12,5 @@
 * [后端](BACKEND.md)
 * [工具](USEFULTOOLS.md)
 * [电子书](电子书.md)
+* [常用技巧](SKILLS.md)
 
