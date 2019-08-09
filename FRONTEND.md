@@ -14,6 +14,9 @@
 * [Taro](#Taro)
 * [常用工具](#常用工具)
 * [css](#css)
+* [面试](#面试)
+* [js](#js)
+* [高质文章](#高质文章)
 
 
 ## vue
@@ -134,3 +137,20 @@
 
 ### demo
 - javascript-mqtt-demo-wearingTip   https://github.com/coolnameismy/javascript-mqtt-demo-wearingTip
+
+## 面试
+
+- 前端 100 问：能搞懂 80% 的请把简历给我   https://juejin.im/post/5d23e750f265da1b855c7bbe?utm_source=gold_browser_extension
+## js
+
+- 2019 年常用 JavaScript 正则大全   https://juejin.im/post/5d245d4151882555300feb77?utm_source=gold_browser_extension
+
+
+## 高质文章
+
+- if 我是前端团队 Leader，怎么制定前端协作规范?  https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-44
+- 阿里大佬浅谈大型项目前端架构设计 https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg
+- 年终回顾，为你汇总一份「前端技术清单」 https://juejin.im/post/5bdfb387e51d452c8e0aa902
+- 8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...) https://juejin.im/post/5d0878aaf265da1b83338f74?utm_source=gold_browser_extension#heading-1
+- 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
+- fullstack tutorial   https://github.com/frank-lam/fullstack-tutorial?utm_source=gold_browser_extension
