@@ -24,6 +24,10 @@
 * [性能与监控](#性能与监控)
 * [高质文章](#高质文章)
 * [趋势](#趋势)
+* [动效](#动效)
+* [数据结构与算法](#数据结构与算法)
+* [js core](#js-core)
+* [工具](#工具)
 
 
 ## vue
@@ -31,6 +35,7 @@
 
 ### 文章
  * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
+ * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
 
 
 
@@ -113,6 +118,8 @@
 - mounted https://github.com/fjc0k/mounted
 - taro-ui https://taro-ui.jd.com
 
+### 文章
+ * [dva+ts+taro 小程序构建-资料总汇](hhttps://juejin.im/post/5d1041436fb9a07eeb13b2fa)
 
 ### demo
 - https://github.com/huangzhuangjia/taro-music
@@ -174,11 +181,15 @@
 - 面试官(7): 聊一聊 Babel? https://juejin.im/post/5c03b85ae51d450c740de19c
 
 ## 面试
+ * [前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
+ * [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260)
+ * [作为技术面试官，为什么把你pass了](https://juejin.im/post/5c1e7a086fb9a049b82a7310)
+ * [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 
-- 前端 100 问：能搞懂 80% 的请把简历给我   https://juejin.im/post/5d23e750f265da1b855c7bbe?utm_source=gold_browser_extension
 ## js
-
-- 2019 年常用 JavaScript 正则大全   https://juejin.im/post/5d245d4151882555300feb77?utm_source=gold_browser_extension
+ * [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
+ * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
+ * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
 
 
 ## 移动端
@@ -218,8 +229,28 @@
  * [年终回顾，为你汇总一份「前端技术清单」](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
  * [8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...)](https://juejin.im/post/5d0878aaf265da1b83338f74)
  * [fullstack tutorial](https://github.com/frank-lam/fullstack-tutorial)
+ * [五星推荐的系列文章清单](https://juejin.im/post/5c1f01fef265da61587723f4)
+ * [端动态化方案详细设计](https://juejin.im/post/5c274d0151882504bd0e80b3)
 
 
 ## 趋势
 - 了解什么是微前端  https://juejin.im/post/5d1f19e3f265da1bab29ce5f?utm_source=gold_browser_extension
 - 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
+
+## 动效
+
+### demo
+ * [2018 最佳前端动效集锦](https://tympanus.net/codrops/2018/12/27/awesome-demos-from-2018/)
+
+
+## 数据结构与算法
+
+ * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
+
+## js-core
+ * [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
+
+
+## 工具
+
+ * [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
