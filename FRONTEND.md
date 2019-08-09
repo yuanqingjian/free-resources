@@ -10,6 +10,7 @@
 * [vue](#vue)
 * [react](#react)
 * [react-native](#react-native)
+* [Weex](#Weex)
 * [typescript](#typescript)
 * [Taro](#Taro)
 * [nodejs](#nodejs)
@@ -17,11 +18,20 @@
 * [css](#css)
 * [面试](#面试)
 * [js](#js)
+* [移动端](#移动端)
+* [微信公众号](#微信公众号)
+* [小程序](#小程序)
+* [性能与监控](#性能与监控)
 * [高质文章](#高质文章)
 * [趋势](#趋势)
 
 
 ## vue
+
+
+### 文章
+ * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
+
 
 
 ## react
@@ -67,6 +77,9 @@
 
 ### 参考资料
 - react-native-awesome  https://github.com/crazycodeboy/react-native-awesome
+
+## Weex
+
 
 
 ## typescript
@@ -168,13 +181,43 @@
 - 2019 年常用 JavaScript 正则大全   https://juejin.im/post/5d245d4151882555300feb77?utm_source=gold_browser_extension
 
 
-## 高质文章
+## 移动端
 
-- if 我是前端团队 Leader，怎么制定前端协作规范?  https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-44
-- 阿里大佬浅谈大型项目前端架构设计 https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg
-- 年终回顾，为你汇总一份「前端技术清单」 https://juejin.im/post/5bdfb387e51d452c8e0aa902
-- 8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...) https://juejin.im/post/5d0878aaf265da1b83338f74?utm_source=gold_browser_extension#heading-1
-- fullstack tutorial   https://github.com/frank-lam/fullstack-tutorial?utm_source=gold_browser_extension
+### 常用库
+- lib-flexible  https://github.com/amfe/lib-flexible
+
+## 微信公众号
+
+
+### 实战项目
+- wechaty https://github.com/Chatie/wechaty
+- wechatBot https://github.com/gengchen528/wechatBot
+
+## 小程序
+
+
+## 性能与监控
+
+
+### 文章
+ * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
+
+
+### 常用工具
+ * [阿里云监控](https://help.aliyun.com/document_detail/58652.html?spm=a2c4g.11174283.3.2.3245668cvlC7WK) (网站性能、错误等监控)
+ * [growingio](https://www.growingio.com) (网站访问量监控)
+ * [sentry](https://sentry.io) (错误监控)
+ * [fundebug](https://www.fundebug.com/?utm_source=random) (错误监控)
+ * [gtmetrix](https://gtmetrix.com) (网站访问速度)
+ * [zanePerfor](https://github.com/wangweianger/zanePerfor) (网站访问速度)
+ * [pingdom](https://www.pingdom.com/) (网站状况监控)
+
+## 高质文章
+ * [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-44)
+ * [阿里大佬浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg)
+ * [年终回顾，为你汇总一份「前端技术清单」](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
+ * [8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...)](https://juejin.im/post/5d0878aaf265da1b83338f74)
+ * [fullstack tutorial](https://github.com/frank-lam/fullstack-tutorial)
 
 
 ## 趋势
